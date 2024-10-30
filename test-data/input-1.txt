@@ -1,0 +1,4 @@
+#Ha ez egyik store üres, akkor megpróbálja a másikat
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

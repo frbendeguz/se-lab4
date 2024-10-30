@@ -1,0 +1,3 @@
+#Ha az fired store failed, akkor nem próbál elsütni másikat
+GT4500,1,1,1,0
+TORPEDO,SINGLE
