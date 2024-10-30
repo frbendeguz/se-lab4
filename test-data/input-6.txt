@@ -1,0 +1,5 @@
+#Ha az első kifogyott, de az következne, megpróbálja a másodikat
+GT4500,1,0,1,0
+ TORPEDO,SINGLE 
+ TORPEDO,SINGLE 
+ TORPEDO,SINGLE
